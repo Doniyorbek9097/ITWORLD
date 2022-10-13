@@ -1,0 +1,20 @@
+{
+  "files": {
+    "controllers/auth.js": [
+      {
+        "id": "60ddbb2d-7bc5-4735-af6b-d3da5f4492ba",
+        "line": 6,
+        "version": 168,
+        "index": 214
+      }
+    ],
+    "models/student.js": [
+      {
+        "id": "cd0512f3-b234-4602-9574-06dc2bd7bd25",
+        "line": 4,
+        "version": 94,
+        "index": 67
+      }
+    ]
+  }
+}
