@@ -31,5 +31,5 @@ app.use("/api/enrolled", require("./routes/enrolledStudent"))
 
 const port = process.env.PORT || 8080;
 
-app.listen(3022, () => console.log(`server on post ${port} is runing`) )
+app.listen(port, () => console.log(`server on post ${port} is runing`) )
 
